@@ -1,0 +1,38 @@
+Exercise: Examine a web page
+Introduction
+In this exercise, you will practice examining an HTML page using the developer tools.
+
+Goal
+Inspect the HTML document using the developer tools in your browser.
+
+Objectives
+Find the HTML ID of the Little Lemon logo.
+
+Instructions
+Step 1: Download the following file on your local system.
+
+Step 2: Unzip the file.
+
+On Windows, open your Downloads folder, right-click the file examine_the_page.zip and select Extract All.
+
+Display for Unzipping to Select Destination and Extract Files
+On Mac, open your Downloads folder and double click the file examine_the_page.zip.
+
+Once unzipped, there will be a folder named examine_the_page.
+
+Step 3:  Open the folder and double click index.html to view the file in your local web browser. Verify that it looks like this:
+
+Little Lemon Our Menu Webpage preview
+Step 4:  Right-click the Little Lemon logo and select Inspect (or Inspect Element)
+
+Right Click Display on the Page
+Step 5: Inspect the line in the HTML for the logo in the developer tools panel. The line begins with <img.
+
+Note: In the line, there is an ID in the following format id="???". Note the value that the ID is equal to.
+
+Inspect code for img tag
+Inspect code for  id value inside img tag
+Tips
+If you get stuck, close the developer tools and start over.
+
+Review the lesson Developer Tools.
