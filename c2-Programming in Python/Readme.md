@@ -1,2 +1,2 @@
-<h1>Welcome-to-Python-Programming</h1>
-<img src="Welcome-to-Python-Programming.png" >
+<h1>Course-syllabus</h1>
+<img src="Course-syllabus.png" >
