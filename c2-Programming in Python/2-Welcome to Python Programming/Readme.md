@@ -1,2 +1,2 @@
-<h1>Course Details</h1>
-<img src="Course-syllabus.png" >
+<h1>Basic-Data-type-and-Function-Cheatsheet</h1>
+<img src="Basic-Data-type-and-Function-Cheatsheet.png" >
